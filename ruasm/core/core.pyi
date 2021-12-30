@@ -7,3 +7,5 @@ class DummyClass:
     def get_42(self) -> int: ...
 
 fourtytwo: int
+
+# ref: https://github.com/PyO3/maturin/blob/main/test-crates/pyo3-pure/pyo3_pure.pyi

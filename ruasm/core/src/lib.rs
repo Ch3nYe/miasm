@@ -34,4 +34,5 @@ fn core(_py: Python, m: &PyModule) -> PyResult<()> {
 
     Ok(())
 }
-
+// ref maturin: build rust to wheel:: https://github.com/PyO3/maturin
+// ref pyo3: use rust in python:: https://pyo3.rs/v0.15.1/index.html
